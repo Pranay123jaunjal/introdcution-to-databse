@@ -1,0 +1,2 @@
+Data modeling is the process of creating a visual representation of either a whole information system or parts of it to communicate connections between data points and structures.
+types of data modelingThe three primary data model types are relational, dimensional, and entity-relationship (E-R). There are also several others that are not in general use, including hierarchical, network, object-oriented, and multi-value.

@@ -1,0 +1,26 @@
+*Relation Database
+A relational database management system (RDBMS) is a system where data is organized in two-dimensional tables using rows and columns.
+
+This is one of the most popular data models which is used in industries. It is based on SQL.
+
+
+*Object Oriented Database
+It is a system where information or data is represented in the form of objects which is used in object-oriented programming.
+
+It is a combination of relational database concepts and object-oriented principles.
+
+Relational database concepts are concurrency control, transactions, etc.
+
+OOPs principles are data encapsulation, inheritance, and polymorphism.
+
+It requires less code and is easy to maintain.
+
+*Hierarchical Database
+It is a system where the data elements have a one to many relationship (1: N). Here data is organized like a tree which is similar to a folder structure in your computer system.
+
+
+*Network database
+A Network database management system is a system where the data elements maintain one to one relationship (1: 1) or many to many relationship (N: N).
+
+It also has a hierarchical structure, but the data is organized like a graph and it is allowed to have more than one parent for one child record.
+

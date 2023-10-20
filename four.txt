@@ -1,0 +1,5 @@
+Data redundancy.
+Data inconsistency.
+Difficult data access.
+Security problems.
+Difficult concurrent access.

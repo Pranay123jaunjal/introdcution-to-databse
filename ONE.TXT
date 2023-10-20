@@ -1,0 +1,8 @@
+database is a collection of data which are store in a files and storage management systems 
+example of database{
+    1)file management systems
+    2)DBMS data base management systems
+}
+we should need of database to access the information or abstrac the information 
+or
+A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database management system (DBMS).

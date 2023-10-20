@@ -1,0 +1,6 @@
+DBMS are the database management system it a managent system which are stroe a data in a systematic manner.
+it is a managent systems which are stroe information in a simply the data 
+DBMS contians {
+    *MYSQL*mongodb*oracal
+}
+this are the management systems which are handle the data and stroe 
